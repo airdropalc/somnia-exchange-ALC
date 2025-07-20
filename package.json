@@ -1,0 +1,29 @@
+{
+  "name": "somnia-exchange-alc",
+  "version": "1.0.0",
+  "description": "Somnia Exchange Auto Swap Bot by ALC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "somnia",
+    "swap",
+    "automation",
+    "alc"
+  ],
+  "author": "Re Rowet | ALC",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.7",
+    "inquirer": "^9.2.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airdropalc/somnia-exchange-ALC.git"
+  },
+  "homepage": "https://github.com/airdropalc/somnia-exchange-ALC#readme"
+}
