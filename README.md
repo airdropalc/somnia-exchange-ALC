@@ -34,7 +34,7 @@ This bot uses an interactive command-line interface (CLI) to make setup easy and
 ### Step 1: Clone the Repository
 Download the project files to your machine and navigate into the directory.
 ```bash
-git clone [https://github.com/airdropalc/somnia-exchange-ALC.git](https://github.com/airdropalc/somnia-exchange-ALC.git)
+git clone https://github.com/airdropalc/somnia-exchange-ALC.git
 cd somnia-exchange-ALC
 ```
 
