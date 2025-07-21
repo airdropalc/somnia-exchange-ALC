@@ -44,13 +44,7 @@ Install the required Node.js packages.
 npm install
 ```
 
-### Step 3: Configure Proxies (`proxy.txt`) (Optional)
-If you wish to use proxies, create a `proxy.txt` file and add one proxy per line.
-```bash
-nano proxy.txt
-```
-
-### Step 4: Run the Interactive Bot
+### Step 3: Run the Interactive Bot
 This is where the magic happens. Start the bot, and it will ask you a series of questions to configure the swaps.
 ```bash
 node index.js
